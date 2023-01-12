@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emailTextField</name>
+   <tag></tag>
+   <elementGuidId>ade10c3d-b5e9-4224-9fe6-227fd63bbccd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='email']</value>
+      <webElementGuid>fb8ab3bd-d8d8-43cd-bf55-498665955e03</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

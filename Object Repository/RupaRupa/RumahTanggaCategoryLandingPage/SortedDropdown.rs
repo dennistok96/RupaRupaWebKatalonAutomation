@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SortedDropdown</name>
+   <tag></tag>
+   <elementGuidId>9e41d8c2-319b-4b9e-b02c-0f24a6376764</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@name='order']/option[@value='${type}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@name='order']/option[@value='${type}']</value>
+      <webElementGuid>0dd45e39-a6c5-4e3f-8f79-4390c1f1c57c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TambahKeranjangButton</name>
+   <tag></tag>
+   <elementGuidId>31987ade-3aa3-41ea-a284-52972ea00cb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='form-button']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='form-button']/button</value>
+      <webElementGuid>85d9b647-e361-46bd-92b1-6e7ef0a12c3e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

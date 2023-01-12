@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CatatanPopupButton</name>
+   <tag></tag>
+   <elementGuidId>146ec839-d6b6-4ba1-a3c6-264ff8cfe094</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='joyride-tooltip__buttons']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='joyride-tooltip__buttons']/button</value>
+      <webElementGuid>d9557c6c-7319-4edf-9d47-25adf095626c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
