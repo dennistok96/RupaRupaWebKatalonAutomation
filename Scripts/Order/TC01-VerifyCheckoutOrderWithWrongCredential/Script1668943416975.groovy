@@ -53,6 +53,8 @@ WebUI.waitForElementNotHasAttribute(findTestObject('RupaRupa/ProductDetailPage/T
 
 WebUI.click(findTestObject('RupaRupa/ProductDetailPage/TambahKeranjangButton'))
 
+WebUI.click(findTestObject('RupaRupa/ProductDetailPage/PilihMetodePemesananButton'))
+
 CucumberKW.comment('And the user click on lanjut ke keranjang button')
 
 WebUI.click(findTestObject('RupaRupa/ProductDetailPage/LanjutKeKeranjangButton'))
